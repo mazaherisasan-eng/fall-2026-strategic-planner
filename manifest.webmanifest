@@ -1,1 +1,1 @@
-{"name":"Fall 2026 Strategic Planner","short_name":"Fall 2026 Planner","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f6f9fe","theme_color":"#0b2444"}
+{"name":"Fall 2026 Strategic Planner","short_name":"Strategic Planner","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f6f9fe","theme_color":"#0b2444","icons":[{"src":"./planner-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
